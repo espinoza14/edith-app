@@ -1,0 +1,13 @@
+{
+  "name": "edith-app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
